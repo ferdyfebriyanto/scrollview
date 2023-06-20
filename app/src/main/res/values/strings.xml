@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">
+        <i>Lorem ipsum dolor sit amet</i>>, www.google.com consectetur adipiscing elit. Ut fermentum lacus tellus, eget tincidunt libero facilisis eget. Etiam ac libero pharetra, egestas sapien ut, dapibus tellus. Duis elementum massa id massa interdum, eget auctor felis viverra. Integer cursus in purus a commodo. Nullam eleifend sapien et justo gravida, sit amet viverra est iaculis. Nullam eget consequat purus, nec facilisis nibh. Vestibulum dictum luctus dapibus. Vivamus non ultrices justo.
+        \n\n
+        <b>Mauris maximus posuere dapibus.</b> Donec sit amet laoreet velit, eu fermentum sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris aliquam felis vel elit gravida, eu faucibus nisi aliquam. In at nulla commodo, pulvinar lorem eu, scelerisque nisl. Maecenas eget nunc tempor erat dictum vehicula a at diam. Integer sed orci eu tortor commodo vehicula tempus scelerisque diam. Nam eget eros ante. Pellentesque interdum libero sed congue aliquet.
+        \n\n
+        Sed porta vitae lectus et elementum. Sed quis mollis mauris. Duis orci massa, vehicula quis ante eget, accumsan cursus lectus. Nam suscipit condimentum dolor non lobortis. Pellentesque convallis erat diam, sit amet euismod orci posuere sit amet. Suspendisse iaculis sagittis nulla et vestibulum. Donec dapibus mi ac elit condimentum bibendum.
+        \n\n
+        Maecenas consequat non libero a elementum. Nullam vestibulum blandit leo sit amet rutrum. Suspendisse ut porttitor leo. In ut velit molestie nisl dignissim luctus. Suspendisse tempus nulla vel molestie elementum. Etiam accumsan tristique ligula ut gravida. Ut nisi mauris, facilisis a massa at, sollicitudin fermentum nunc. Nam volutpat blandit arcu sodales ullamcorper. Maecenas a purus id tellus aliquet pretium. Fusce vitae dictum dolor, quis vulputate lacus. Ut volutpat accumsan lorem eu pulvinar. Pellentesque in leo blandit, tristique ipsum sit amet, semper lorem. Nulla sem magna, tempor eu consectetur at, accumsan vel tortor. Mauris ac urna est. Sed egestas tincidunt pharetra. Aenean in orci non dolor mollis congue.
+        \n\n
+        Vestibulum sed aliquam augue. Morbi auctor quam sit amet justo tempus viverra sed ac nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia dolor vitae commodo vulputate. Donec ipsum est, commodo eu consectetur lobortis, viverra sed purus. Donec at aliquam velit. Cras consectetur tincidunt pulvinar. Donec tincidunt odio vitae ornare fermentum.
+    </string>
+</resources>
